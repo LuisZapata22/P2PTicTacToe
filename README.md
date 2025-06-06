@@ -173,7 +173,7 @@ The master transitions through these states when interacting with players:
 
 
 
-![MasterAutomaton](/Imagenes/MasterAutomaton.png)
+![MasterAutomaton](/Images/MasterAutomaton.png)
 
 ---
 
@@ -204,7 +204,7 @@ A player’s interaction states are:
    * At game end, both send `WINN` to each other and the winner/loser sends `FINN|<W/L>` to master.
 
 
-![PlayerAutomaton](/Imagenes/PlayerAutomaton.png)
+![PlayerAutomaton](/Images/PlayerAutomaton.png)
 ---
 
 
