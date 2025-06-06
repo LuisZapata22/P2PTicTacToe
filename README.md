@@ -269,7 +269,7 @@ A player’s interaction states are:
    Example (master on `192.168.1.10`, port `5000`):
 
    ```bash
-   ./bin/player 192.168.1.10 5000 6000
+   ./bin/player 192.168.1.10 5000
    ```
 
    Output example:
